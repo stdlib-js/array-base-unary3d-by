@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import unary3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary3d-by@deno/mod.js';
+import unary3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary3d-by@v0.1.0-deno/mod.js';
 ```
 
 #### unary3dBy( arrays, shape, fcn, clbk\[, thisArg] )
@@ -155,7 +155,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import filled3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled3d-by@deno/mod.js';
 import zeros3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros3d@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import unary3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary3d-by@deno/mod.js';
+import unary3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unary3d-by@v0.1.0-deno/mod.js';
 
 function accessor( v ) {
     // Randomly determine whether a value should be considered "missing":
